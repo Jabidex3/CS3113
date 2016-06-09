@@ -14,12 +14,3 @@
 <li>Final Project - Trasure Hunter
 </ul>
 
-# Final Project Requirements:
-<ul>
-<li>-Must have a title screen and proper states for game over, etc.
-<li>-Must have a way to quit the game.
-<li>-Must have music and sound effects.
-<li>-Must have at least 3 different levels or be procedurally generated.
-<li>-Must be either local multiplayer or have AI (or both!)
-<li>-Must have at least some animation or particle effects.
-</ul>
